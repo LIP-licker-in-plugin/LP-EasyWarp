@@ -1,10 +1,10 @@
-name: DP-EasyWarp
+name: LP-EasyWarp
 version: 1.0.0.3
-main: com.darksoldier1404.dewp.EasyWarp
-authors: [ DEAD_POOLIO_ ]
+main: com.licker2689.lewp.EasyWarp
+authors: [ LICKER2689 ]
 api-version: 1.13
 depend:
-  - DPP-Core
+  - LP-Core
 commands:
   워프:
-    aliases: [dewp]
+    aliases: [lewp]

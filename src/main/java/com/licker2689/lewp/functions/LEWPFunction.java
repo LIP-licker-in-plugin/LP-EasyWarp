@@ -1,16 +1,16 @@
-package com.darksoldier1404.dewp.functions;
+package com.licker2689.lewp.functions;
 
-import com.darksoldier1404.dewp.EasyWarp;
-import com.darksoldier1404.dppc.utils.ColorUtils;
-import com.darksoldier1404.dppc.utils.ConfigUtils;
-import com.darksoldier1404.dppc.utils.Triple;
+import com.licker2689.lewp.EasyWarp;
+import com.licker2689.lpc.utils.ColorUtils;
+import com.licker2689.lpc.utils.ConfigUtils;
+import com.licker2689.lpc.utils.Triple;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitTask;
 
 @SuppressWarnings("all")
-public class DEWPFunction {
+public class LEWPFunction {
     private static final EasyWarp plugin = EasyWarp.getInstance();
 
     public static void createWarp(Player p, String name) {

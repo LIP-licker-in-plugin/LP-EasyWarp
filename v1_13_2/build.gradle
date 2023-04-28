@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'com.licker2689'
-version = '1.0.0.3'
+version = '1.0.0.4'
 def MC_VERSION = '1.13.2'
 
 compileJava.options.encoding = 'UTF-8'
